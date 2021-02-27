@@ -4,6 +4,8 @@ My name is Sungwook Choi
 
 
 :computer: python, django, c++, aws 사용 경험이 있는 개발자 입니다.
+[![noname2048's GitHub stats](https://github-readme-stats.vercel.app/api?username=noname2048)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **noname2048/noname2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
