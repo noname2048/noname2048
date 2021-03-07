@@ -6,7 +6,7 @@ My name is Sungwook Choi
 
 💡 python, django, c++, aws 사용 경험이 있는 개발자 입니다. \
 🖥️ 주 개발환경은 Ubuntu 20.04 에요. \
-😊 벡엔드를 잘하고 싶어요. \
+😊 벡엔드를 잘하고 싶어요.
 
 [![noname2048's GitHub stats](https://github-readme-stats.vercel.app/api?username=noname2048)](https://github.com/anuraghazra/github-readme-stats)
 
