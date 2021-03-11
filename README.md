@@ -8,6 +8,8 @@ My name is Sungwook Choi
 🖥️ 주 개발환경은 Ubuntu 20.04 에요. \
 😊 벡엔드를 잘하고 싶어요.
 
+산업기능요원 구직중입니다.
+
 [![noname2048's GitHub stats](https://github-readme-stats.vercel.app/api?username=noname2048)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
