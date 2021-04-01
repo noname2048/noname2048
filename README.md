@@ -10,6 +10,8 @@ My name is Sungwook Choi
 
 산업기능요원 구직중입니다.
 
+안녕하세요, 대학교에서 C/C++ 와 matlab을 이용한 영상처리를 공부하다 python 웹개발로 뛰어든 최성욱 입니다.
+
 [![noname2048's GitHub stats](https://github-readme-stats.vercel.app/api?username=noname2048)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
