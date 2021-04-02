@@ -10,7 +10,7 @@ My name is Sungwook Choi
 
 산업기능요원 구직중입니다.
 
-안녕하세요, Pythonic 한 코드를 작성하고 싶은 주니어 개발자 최성욱입니다.
+안녕하세요, Pythonic 한 코드를 작성하고 싶은 주니어 개발자 최성욱입니다. \
 전공으로는 C/C++ 와 matlab을 이용한 영상처리를 공부하였습니다.
 
 [![noname2048's GitHub stats](https://github-readme-stats.vercel.app/api?username=noname2048)](https://github.com/anuraghazra/github-readme-stats)
