@@ -18,8 +18,17 @@ vscode theme: eva dark bold
 
 [![noname2048's GitHub stats](https://github-readme-stats.vercel.app/api?username=noname2048)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<a href="https://velog.io/@noname2048"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+자격증
+
+정보처리기사, SQLD
+
+관심있는 기술
+
+<img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=flat-square"/> <img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=Amazon-AWS&logoColor=white&style=flat-square"/> 
+
+배우고싶은 기술
+
+<img src="https://img.shields.io/badge/Express-000000?logo=Docker&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Docker&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/MobX-FF9955?logo=MobX&logoColor=black&style=flat-square"/> <img src="https://img.shields.io/badge/Elastic Stack-005571?logo=Elastic-Stack&logoColor=white&style=flat-square"/>
 
 <!--
 **noname2048/noname2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
