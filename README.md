@@ -1,14 +1,30 @@
-### Hi there 👋
+### 안녕하세요 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoname2048&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-My name is Sungwook Choi
+산업기능요원(보충역) 구직중인 최성욱입니다.
+웹 백엔드(Django)를 주 직무로, 프론트엔드(React)도 같이 공부하고 있습니다.
+* 백엔드를 프론트 엔드보다 더 잘하고 싶어해요.
+* 잘 동작하면서, 아름답다고 생각하는 코드를 작성하고 싶어요
+* 프레임워크도 잘 사용하는 것도 좋지만, 구현 원리를 알고 싶은 욕심(어쩌면 생산성이 떨어지는)을 가지고 있습니다.
 
-💡 python, django, c++, aws 사용 경험이 있는 개발자 입니다. \
-🖥️ 주 개발환경은 Ubuntu 20.04 에요. \
+주 개발 스택
+* Django, React
+* (학부💡) opencv/opengl(c++), matlab, processing(java), ror(ruby), tensorflow(1.0, python)
+
+개발 환경
+* 한성 노트북(2014~): depreciate
+* macbook pro 2015 early (2016.하반기~2018.상반기):
+* 데스크톱(Ubuntu 18.04, 20.04 🖥️)
+
+프로젝트
+* 빈강의실을 알려주는 공강
 😊 벡엔드를 잘하고 싶어요.
-
-**산업기능요원 구직중입니다.**
+* CI/CD 개발 
+😊 벡엔드를 잘하고 싶어요.ㄱㅕㅇㅎ
+😊 벡엔드를 잘하고
+겸ㅎ
+😊 벡엔드를 잘하고 싶경ㅎ
 개발중인 포트폴리오 레포: [https://github.com/noname2048/django-prac-004](https://github.com/noname2048/django-prac-004)
 
 안녕하세요, Pythonic 한 코드를 작성하고 싶은 주니어 개발자 최성욱입니다. \
