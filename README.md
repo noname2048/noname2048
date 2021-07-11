@@ -4,30 +4,31 @@
 
 웹 백엔드(Django)를 희망하는 주니어 개발자 최성욱입니다.
 산업기능요원(보충역) 구직중에 있습니다.
-* 프론트엔드(React)도 같이 공부하고 있습니다.
-* 잘 동작하면서, 아름답다고 생각하는 코드를 작성하고 싶어요
-* 구현 원리를 알고 싶은 욕심(어쩌면 생산성이 떨어지는)을 가지고 있습니다.
+* 프론트엔드(React, Redux)도 조금 알아요.
+* 잘 동작하는 코드를 먼저 만들고, 옳게 돌아갈 수 있도록 하는 코드를 작성하려고 노력해요.
 
 주 개발 스택
 * Django, React
 * (학부💡: 영상처리) opencv/opengl(c++), matlab, processing(java), ror(ruby), tensorflow(1.0, python)
+
+프로젝트
+* 빈강의실을 알려주는 공강
+* 게시판프로젝트 + CI/CD (circleci + AWS CodeDeploy) 레포: [https://github.com/noname2048/django-prac-004](https://github.com/noname2048/django-prac-004)
+
+자격증
+* SQLD (21.04)
+* 정보처리기사(21.06)
 
 개발 환경
 * 한성 노트북(2014~): depreciate
 * macbook pro 2015 early (2016.하반기~2018.상반기):
 * 데스크톱(Ubuntu 18.04, 20.04 🖥️)
 
-프로젝트
-* 빈강의실을 알려주는 공강
-* 게시판프로젝트 + CI/CD (circleci + AWS CodeDeploy) 레포: [https://github.com/noname2048/django-prac-004](https://github.com/noname2048/django-prac-004)
-
-vscode theme: eva dark bold
+에디터
+* pycharm + ideavim
+* vscode
 
 [![noname2048's GitHub stats](https://github-readme-stats.vercel.app/api?username=noname2048)](https://github.com/anuraghazra/github-readme-stats)
-
-자격증
-
-정보처리기사, SQLD
 
 관심있는 기술
 
