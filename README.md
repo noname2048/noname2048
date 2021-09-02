@@ -4,11 +4,12 @@
 
 웹 백엔드(Django)를 희망하는 주니어 개발자 최성욱입니다.
 산업기능요원(보충역) 구직중에 있습니다.
-* 프론트엔드(React, Redux)도 조금 알아요.
-* 잘 동작하는 코드를 먼저 만들고, 옳게 돌아갈 수 있도록 하는 코드를 작성하려고 노력해요.
+* Django, FastAPI, Flask 등의 파이썬 벡엔드로 활동하고 싶어요.
+* 프론트엔드는 잘하진 못해요 (React, Vue). Flex 사랑해요!
+* 잘 동작하는 코드를 먼저 만든 다음, 옳게 돌아갈 수 있도록 하는 코드를 작성하려고 노력하고 있어요.
 
 주 개발 스택
-* Django, React
+* Django
 * (학부💡: 영상처리) opencv/opengl(c++), matlab, processing(java), ror(ruby), tensorflow(1.0, python)
 
 프로젝트
