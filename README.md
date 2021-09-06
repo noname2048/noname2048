@@ -8,6 +8,11 @@
 * 프론트엔드는 잘하진 못해요 (React, Vue). Flex 사랑해요!
 * 잘 동작하는 코드를 먼저 만든 다음, 옳게 돌아갈 수 있도록 하는 코드를 작성하려고 노력하고 있어요.
 
+관심있는 직무는 다음과 같아요.
+* 데이터나 로그를 비교 평가하여 인사이트를 얻는 작업
+* 다량의 데이터를 효율적, 효과적으로 처리하여 의미있는 정보로 가공하기
+* 에러를 개선하거나 시간을 단축하거나, 코드를 효율적으로 정제하는 작업
+
 주 개발 스택
 * Django
 * (학부💡: 영상처리) opencv/opengl(c++), matlab, processing(java), ror(ruby), tensorflow(1.0, python)
@@ -27,7 +32,8 @@
 
 에디터
 * pycharm + ideavim
-* vscode
+* vscode + vim
+* Django 자동완성은 jetbrains IDE가 뛰어나다고 생각해요
 
 [![noname2048's GitHub stats](https://github-readme-stats.vercel.app/api?username=noname2048)](https://github.com/anuraghazra/github-readme-stats)
 
