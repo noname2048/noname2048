@@ -22,7 +22,7 @@
 사이드 프로젝트
 * 대학교 빈 강의실을 알려주는 "공강": 3인 프로젝트 (ROR, processing)
 * 게시판: Django + CI/CD (circleci + AWS CodeDeploy) 
-*   레포: [https://github.com/noname2048/django-prac-004](https://github.com/noname2048/django-prac-004)
+  * 레포: [https://github.com/noname2048/django-prac-004](https://github.com/noname2048/django-prac-004)
 
 교외활동
 * 멋쟁이사자처럼
