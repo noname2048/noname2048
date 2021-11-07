@@ -24,6 +24,14 @@
 * 게시판: Django + CI/CD (circleci + AWS CodeDeploy) 
 *   레포: [https://github.com/noname2048/django-prac-004](https://github.com/noname2048/django-prac-004)
 
+교외활동
+* 멋쟁이사자처럼
+* 406 알고리즘 (ICPC 교내 선발 4등)
+* 딥러닝스터디
+* 영수증 OCR 전처리 (공과대학 우수상)
+* PE 프로그램 (랩인턴)
+* 얼굴인식구현 (공과대학 장려상)
+
 자격증
 * SQLD (21.04)
 * 정보처리기사(21.06)
