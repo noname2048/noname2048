@@ -51,6 +51,9 @@
 
 <img src="https://img.shields.io/badge/Express-000000?logo=Docker&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Docker&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/MobX-FF9955?logo=MobX&logoColor=black&style=flat-square"/> <img src="https://img.shields.io/badge/Elastic Stack-005571?logo=Elastic-Stack&logoColor=white&style=flat-square"/>
 
+좋아하는 폰트
+
+"D2 Coding", "Fira Code"
 <!--
 **noname2048/noname2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
