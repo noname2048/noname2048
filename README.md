@@ -15,8 +15,9 @@
 관심있는 직무는 다음과 같아요.
 * `RESTFUL API` `마이크로 서비스` `SQL 최적화` `캐싱전략` `배포` `pub/sub`
 
-학부과정 (영상처리관련 학과)
-* opencv/opengl(c++), matlab, processing(java), ror(ruby), tensorflow(1.0, python)
+학부과정 (디지털이미징 공학)
+* 영상처리, 비전, 머신러닝 `OpenCV` `Matlab` `tensorflow`
+* 데이터 시각화, 3D 그래픽 `OpenGL` `Processing`
 
 진행한 프로젝트
 * 대학교 빈 강의실을 알려주는 "공강": 3인 프로젝트 (ROR, processing)
