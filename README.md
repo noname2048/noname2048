@@ -47,7 +47,7 @@
 
 좋아하는 폰트
 
-"D2 Coding", "Fira Code"
+"D2 Coding" (유일한 고정폭 한글!), "Fira Code"
 <!--
 **noname2048/noname2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
