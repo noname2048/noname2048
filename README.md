@@ -36,11 +36,6 @@
 * SQLD (21.04)
 * 정보처리기사(21.06)
 
-개발 환경
-* 2014: window
-* 2016.2 ~ 2018.1: macOS
-* 2018.2: Ubuntu 18.04
-
 [![noname2048's GitHub stats](https://github-readme-stats.vercel.app/api?username=noname2048)](https://github.com/anuraghazra/github-readme-stats)
 
 관심있는 기술
