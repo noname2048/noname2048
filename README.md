@@ -5,23 +5,27 @@
 웹 백엔드(Django, Fastapi)를 희망하는 개발자입니다.
 산업기능요원(보충역) 구직중에 있습니다.
 * Django, FastAPI, Flask 등의 파이썬 벡엔드로 활동하고 싶어요.
-* 동작하는 코드를 만들고 나서, 리팩토링, 내부 원리파악, 속도측정, 테스트 작성등에 힘쓰려고 합니다.
+* 동작하는 코드를 만들고 나면, 리팩토링, 동작원리파악, 속도측정, 테스트 작성, 문서화 등에 힘씁니다.
+* 정보처리기사(21.06), SQLD(21.04) 자격증이 있습니다.
+
+잘하는 직무
+* 요구사항에 맞게 데이터 수집하여 처리하기 (6천개의 강의실 정보 처리하기)
+* 동작 과정을 보여주는 시각화/툴 작성 (동료가 작성한 알고리즘 시각화하기)
 
 관심있는 직무는 다음과 같아요.
-* Django, Fastapi를 이용하여 요구사항을 잘 처리하는 벡엔드 혹은 마이크로서비스 작성하기.
-* SQL(postgresql)/NOSQL(mongodb)와 같은 DB 모델을 설계하고 활용하기. 혹은 최적화 하기 
-* 빅데이터를 전처리하고 효율적으로 정제하는 작업
-* 다량의 로그나 에러메세지를 분석하여 이를 해결하는 작업
-* AWS, GCP 등에 안정적인 WAS를 준비하는 작업 (쿠버네티스, 테라폼)
-* django-selery 나 redis를 이용하여 알림/백그라운드 task 등의 스케줄러 작업 
+* `RESTFUL API` `마이크로 서비스` `SQL 최적화` `캐싱전략` `배포` `pub/sub`
 
 학부과정 (영상처리관련 학과)
 * opencv/opengl(c++), matlab, processing(java), ror(ruby), tensorflow(1.0, python)
 
-사이드 프로젝트
+진행한 프로젝트
 * 대학교 빈 강의실을 알려주는 "공강": 3인 프로젝트 (ROR, processing)
+  * 수강신천 페이지를 크롤링하고, 학교 사무실에 전화하여 아이디어를 제시하고 설득하여 강의실 목록 획득 
+  * 교외 팀원 소집하여, 검색 기능을 구현하여 3인 팀으로 800명 앞에서 발표
 * 게시판: Django + CI/CD (circleci + AWS CodeDeploy) 
   * 레포: [https://github.com/noname2048/django-prac-004](https://github.com/noname2048/django-prac-004)
+  * CI/CD 경험, Ip 수집하여 도배와 비정상 행동을 방지하기 위한 로직 작성
+  * DB 비정규화를통한 최적화로 쿼리시간 80%를 향상한 경험
 
 교외활동
 * 멋쟁이사자처럼
@@ -30,10 +34,6 @@
 * 영수증 OCR 전처리 (공과대학 우수상)
 * PE 프로그램 (랩인턴)
 * 얼굴인식구현 (공과대학 장려상)
-
-자격증
-* SQLD (21.04)
-* 정보처리기사(21.06)
 
 [![noname2048's GitHub stats](https://github-readme-stats.vercel.app/api?username=noname2048)](https://github.com/anuraghazra/github-readme-stats)
 
