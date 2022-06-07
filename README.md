@@ -5,7 +5,7 @@
 웹 백엔드(Django, Fastapi)를 희망하는 개발자입니다.
 산업기능요원(보충역) 구직중에 있습니다.
 * Django, FastAPI, Flask 등의 파이썬 벡엔드로 활동하고 싶어요.
-* 동작하는 코드를 만들고 나면, 리팩토링, 동작원리파악, 속도측정, 테스트 작성, 문서화 등에 힘씁니다.
+* 동작하는 코드를 만들고 나면, 리팩토링, 구조파악, 속도향상, 테스트작성, 문서화 등에 힘쓰려고 해요.
 * 정보처리기사(21.06), SQLD(21.04) 자격증이 있습니다.
 
 잘하는 직무
@@ -20,13 +20,21 @@
 * 데이터 시각화, 3D 그래픽 `OpenGL` `Processing`
 
 진행한 프로젝트
-* 대학교 빈 강의실을 알려주는 "공강": 3인 프로젝트 (ROR, processing)
-  * 수강신천 페이지를 크롤링하고, 학교 사무실에 전화하여 아이디어를 제시하고 설득하여 강의실 목록 획득 
-  * 교외 팀원 소집하여, 검색 기능을 구현하여 3인 팀으로 800명 앞에서 발표
-* 게시판: Django + CI/CD (circleci + AWS CodeDeploy) 
+* ISBN 책 자동 크롤링 사이트 (Fastapi + Nextjs), 2022
+  * 레포: 
+  * * 벡엔드[https://github.com/noname2048/ag-fastapi-isbnapi](https://github.com/noname2048/ag-fastapi-isbnapi)
+  * * 프론트[https://github.com/noname2048/bj-nextjs-booklist](https://github.com/noname2048/bj-nextjs-booklist)
+  * fastapi를 공부해서 검색한 책이 없을경우 자동으로 DB에 추가
+  * await/async 로직으로 MSA를 구현
+  * 내장된 Oauth/token 발급로직을 사용
+  * nextjs로 가볍게 프론트엔드를 구현했어요
+* 게시판: Django + CI/CD (circleci + AWS CodeDeploy), 2021
   * 레포: [https://github.com/noname2048/django-prac-004](https://github.com/noname2048/django-prac-004)
   * CI/CD 경험, Ip 수집하여 도배와 비정상 행동을 방지하기 위한 로직 작성
   * DB 비정규화를통한 최적화로 쿼리시간 80%를 향상한 경험
+* 대학교 빈 강의실을 알려주는 "공강": 3인 프로젝트 (ROR, processing), 2017
+  * 수강신천 페이지를 크롤링하고, 학교 사무실에 전화하여 아이디어를 제시하고 설득하여 강의실 목록 획득 
+  * 교외 팀원 소집하여, 검색 기능을 구현하여 3인 팀으로 800명 앞에서 발표
 
 교외활동
 * 멋쟁이사자처럼
