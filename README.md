@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoname2048&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-웹 백엔드(Django, Fastapi)를 희망하는 개발자입니다.
+웹 백엔드(Django, Fastapi)를 희망하는 주니어 개발자입니다.
 
 * Django, FastAPI, Flask 등의 파이썬 벡엔드로 활동하고 싶어요.
 * 동작하는 코드를 만들고 나면, 리팩토링, 구조파악, 속도향상, 테스트작성, 문서화 등에 힘쓰려고 해요.
