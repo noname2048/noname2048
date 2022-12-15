@@ -53,7 +53,7 @@
 
 <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=flat-square"/> <img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=Amazon-AWS&logoColor=white&style=flat-square"/> 
 
-배우고싶은 기술
+배우고 싶은 기술
 
 <img src="https://img.shields.io/badge/Express-000000?logo=Docker&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Docker&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/MobX-FF9955?logo=MobX&logoColor=black&style=flat-square"/> <img src="https://img.shields.io/badge/Elastic Stack-005571?logo=Elastic-Stack&logoColor=white&style=flat-square"/>
 
