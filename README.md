@@ -25,7 +25,7 @@
 진행한 프로젝트
 * ISBN 책 자동 크롤링 사이트 (Fastapi + Nextjs), 2022
   * 레포: 
-  * * 벡엔드[https://github.com/noname2048/ag-fastapi-isbnapi](https://github.com/noname2048/ag-fastapi-isbnapi)
+  * * 벡엔드[https://github.com/noname2048/ag-isbnapi-fastapi](https://github.com/noname2048/ag-isbnapi-fastapi)
   * * 프론트[https://github.com/noname2048/bj-nextjs-booklist](https://github.com/noname2048/bj-nextjs-booklist)
   * fastapi를 공부해서 검색한 책이 없을경우 자동으로 DB에 추가
   * await/async 로직으로 MSA를 구현
