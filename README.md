@@ -2,10 +2,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoname2048&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-웹 백엔드(Django)를 공부하고 있는 주니어 개발자입니다.
+웹 백엔드를 공부하고 있는 주니어 개발자입니다.
+근래에는 파이썬 진영(Django, FastAPI)에서 공부했습니다.
 
-* Django, FastAPI 등의 파이썬 벡엔드로 활동하고 싶어요.
-* 동작하는 코드를 만들고 나면, 리팩토링, 구조파악, 속도향상, 테스트작성, 문서화 등에 힘쓰려고 해요.
+* 동작하는 코드를 먼저 만들고, 이후에 개선하기 위해 노력하려고 합니다.
 * 정보처리기사(21.06), SQLD(21.04) 자격증이 있습니다.
 
 좋아하는 직무
@@ -16,10 +16,15 @@
 * 2만명의 수강신청을 선착순으로 받는 서비스를 안정적으로 설계할 수 있는 개발자되기
 
 관심있는 직무는 다음과 같아요.
-* `RESTFUL API` `SQL 최적화` `배포` `pub/sub` '문서화'
+* REST API 작성하기
+* SQL 쿼리 잘 구성하기
+* CI/CD 구성하기
+* PUB/SUB 을 안정적으로 설계하기
+* LOG 모아 에러 개선하기
+* 반복되는 작업을 개선할 자동화 개발
 
 학부과정 (디지털이미징 공학)
-* 영상처리, 비전, 머신러닝 `OpenCV` `Matlab` `tensorflow`
+* 영상처리, 비전, 머신러닝 `C++` `OpenCV` `Matlab` `tensorflow`
 * 데이터 시각화, 3D 그래픽 `OpenGL` `Processing`
 
 진행한 프로젝트
@@ -41,7 +46,7 @@
 
 교외활동
 * 멋쟁이사자처럼
-* 406 알고리즘 (ICPC 교내 온라인 예선 4등)
+* 406 알고리즘 (ICPC 온라인 예선 교내 4등)
 * 딥러닝스터디
 * 영수증 OCR 전처리 (공과대학 우수상)
 * PE 프로그램 (랩인턴)
@@ -51,11 +56,11 @@
 
 관심있는 기술
 
-<img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=flat-square"/> <img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=Amazon-AWS&logoColor=white&style=flat-square"/> 
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=flat-square"/><img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=Amazon-AWS&logoColor=white&style=flat-square"/> 
 
 배우고 싶은 기술
 
-<img src="https://img.shields.io/badge/Express-000000?logo=Docker&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Docker&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/MobX-FF9955?logo=MobX&logoColor=black&style=flat-square"/> <img src="https://img.shields.io/badge/Elastic Stack-005571?logo=Elastic-Stack&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Docker&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Elastic Stack-005571?logo=Elastic-Stack&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Prisma-2d3748?logo=Prisma&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/TypeScript-3178c6?logo=TypeScript&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white&style=flat-square"/>
 
 <!--
 **noname2048/noname2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
