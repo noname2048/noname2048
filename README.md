@@ -34,6 +34,8 @@
 * 방온도 (IOT 데이터 처리), 2023.07
   * 레포: [1](https://github.com/noname2048/cp-react-to-t3) [2](https://github.com/noname2048/cj-rasp) [3](https://github.com/noname2048/ci-aws-lambda)
     * 내방의 온도를 측정하여 DB에 저장하고, 이를 그래프로 그려 보여줍니다.
+    * 람다펑션을 사용하여, 데이터를 저장합니다.
+    * 데이터를 불러올때는 Nextjs(Vercel)을 이용하여 제공합니다.
 * fastapi jwt 공부 2023.06
   * 레포: https://github.com/noname2048/co-fastapi-jwt
     * fastapi 에서 jwt 를 구현
