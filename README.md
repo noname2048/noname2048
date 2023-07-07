@@ -31,9 +31,14 @@
   - 모바일 앱 개발 (Unity 3D), 데이터 시각화 (Processing)
 
 진행한 프로젝트
-* 방온도 (IOT 데이터 처리), 2023.05
+* 방온도 (IOT 데이터 처리), 2023.07
   * 레포: [1](https://github.com/noname2048/cp-react-to-t3) [2](https://github.com/noname2048/cj-rasp) [3](https://github.com/noname2048/ci-aws-lambda)
     * 내방의 온도를 측정하여 DB에 저장하고, 이를 그래프로 그려 보여줍니다.
+* fastapi jwt 공부 2023.06
+  * 레포: https://github.com/noname2048/co-fastapi-jwt
+    * fastapi 에서 jwt 를 구현
+    * github action을 통해 pylint 검증
+    * ruff를 이용해 빠른 속도로 pre-commit hook 검증  
 * 쿠버네티스 모니터링, 2023.04
   *  [레포](https://github.com/noname2048/ce-numble-k8s-monitoring), [후기](https://velog.io/@noname2048/%EB%84%98%EB%B8%94-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-%ED%9B%84%EA%B8%B0)
      * 도커라이징한 서비스를 쿠버네티스를 이용해 서비스를 배포하는 경험 
