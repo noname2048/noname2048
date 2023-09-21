@@ -1,26 +1,45 @@
 ### 안녕하세요 👋 최성욱입니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoname2048&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+웹 분야에서 공부하고있는 주니어 개발자입니다.
+벡엔드(Django, FastAPI), 프론트엔드(React)를 공부하고 있습니다.
 
-웹 백엔드를 공부하고 있는 주니어 개발자입니다.
-근래에는 파이썬 진영(Django, FastAPI)에서 공부했습니다.
+초기 스타트업에서 일해본 경험이 있습니다. 주변의 문제가 작더라도 지속적으로 파악하고 개선하고자 노력합니다.
 
-* 동작하는 코드를 먼저 만들고, 이후에 개선하기 위해 노력하려고 합니다.
-* 정보처리기사(21.06), SQLD(21.04) 자격증이 있습니다.
-  
-성장하고 싶은 방향
-* 준수한 시간내에 유저가 원하는 기능을 보다 높은 완성도로 만들 수 있는 개발자되기
+## 경력
+### Algorima | Software Enginner 
+- 2022.07 ~ 2022.04 벡엔드 엔지니어, 채용담당자를 위한 프로그램 개발
+- Django, PostgreSQL, Celery, GKE 사용
+- 회원가입 및 Swagger 로 관리되는 CRUD API 작성
+- 유저 인터뷰를 통해 권한 서비스 기획
+- 지원자 파이프라인 소요시간 통계 로직 작성
+- 사용자 지표 분석 및 설문조사 자동화
+
+### 사이드프로젝트
+
+#### 1. [cz.noname2048.com](https://cz.noname2048.com) (React, Vite, Tailwindcss, 칸반보드)
+- DND를 공부하기 위한 칸반보드 작성 (github) [github.com/noname2048/cz-kanban](https://github.com/noname2048/cz-kanban)
+
+#### 2. [sermons.noname2048.com](https://sermons.noname2048.com/playlist/recent) (Nextjs, Tailwindcss, 교회사이트)
+- Tailwindcss, NextJS 공부 (githhb) 현재 비공개
+
+#### 3. [cu.noname2048.com](https://cu.noname2048.com) (FastAPI, superbase, 집온도수집서버)
+- FastAPI, 라즈베리, 아두이노를 이용한 집 온도 측정 (github) [https://github.com/noname2048/cu-fastapi-temp](https://github.com/noname2048/cu-fastapi-temp)
+
+#### 4. [www.noname2048.dev](https://www.noname2048.dev) (NextJS, 집온도수집프론트)
+- NextJS, Socket 을 이용한 실시간 온도 정보 제공 (github) [https://github.com/noname2048/cp-react-to-t3](https://github.com/noname2048/cp-react-to-t3)
+
+
+### 자격증
+* 정보처리기사(21.06)
+* SQLD(21.04)
+
+## 기타 (TL; DR)
+#### 1. 성장하고 싶은 방향
 * 2만명의 수강신청을 선착순으로 받는 서비스를 안정적으로 설계할 수 있는 개발자되기
-* 시장에 주어진 소프트웨어와 기술을 잘 활용하여 문제를 푸는 빌더 되기 
+* 한달의 시간이 주어지면 시장에 주어진 가성비 높은 기술을 활용하여 빠르게 프로토타이핑을 할 수 있는 개발자
+* 자동화 할 수 있는 업무들을 개선할 수 있는 개발자
 
-공부하려는 직무
-* 좋은 API를 작성하여, FE가 직관적으로 접근 하여 사용할 수 있는 API 작성하기
-* 요구사항에 맞게 비지니스 로직을 작성하기 (많은 데이터를 빠르게 서빙하거나, 실시간 로직 다루기)
-* CI/CD 등의 작업에서 개선할 점을 찾아 개선하거나, 자동화 할 수 있는 작업과정을 찾아 개선하기
-* 좋은 서비스를 위해 유저들의 니즈 점검하기
-* 모니터링을 통한 문제 발견하기
-
-학부과정 (융학공학부 디지털이미징)
+#### 2. 학부과정 (융학공학부 디지털이미징)
 * 융합공학부(자유전공) 이후 2학년에 선택하는 바이오/나노/컴퓨터 에서 컴퓨터를 택해 진행하는 디지털이미징 전공을 이수하였습니다. 일반 컴퓨터 공학과 비슷하게 C++로 시작해 컴퓨터 구조, 자료구조, 알고리즘, 등을 통해 보다 세분화된 전공으로 이수합니다.
 * 데이터베이스, 컴파일러, 운영체제와 같은 강의를 디지털이미징 전공의 심화 전공 부분인 영상알고리즘, 그래픽, AI 등으로 대체합니다.  특수 대학원으로 설립된 첨단영상대학원의 전문가를 양성하기 위해 보다 세분화된 커리큘럼으로 진행합니다. 
 * 컴공 공통 과목
@@ -37,6 +56,16 @@
     - 간단한 게임을 만들거나 이해할 수 있습니다.
     - json, csv 데이터를 시각적으로 표현할 수 있습니다.
     - Maya 를 통해 3D 모델링 기초를 배웁니다. Adobe After Effect 등에서 코드를 실행시켜볼 수 있습니다.
+
+교외활동
+* 멋쟁이사자처럼
+* 406 알고리즘 (ICPC 온라인 예선 교내 4등)
+* 딥러닝스터디
+* 영수증 OCR 전처리 (공과대학 우수상)
+* PE 프로그램 (랩인턴)
+* 얼굴인식구현 (공과대학 장려상)
+
+---
 
 진행한 프로젝트
 * 방온도 (IOT 데이터 처리), 2023.07
@@ -69,13 +98,7 @@
   * 수강신천 페이지를 크롤링하고, 학교 사무실에 전화하여 아이디어를 제시하고 설득하여 강의실 목록 획득 
   * 교외 팀원 소집하여, 검색 기능을 구현하여 3인 팀으로 800명 앞에서 발표
 
-교외활동
-* 멋쟁이사자처럼
-* 406 알고리즘 (ICPC 온라인 예선 교내 4등)
-* 딥러닝스터디
-* 영수증 OCR 전처리 (공과대학 우수상)
-* PE 프로그램 (랩인턴)
-* 얼굴인식구현 (공과대학 장려상)
+
 
 [![noname2048's GitHub stats](https://github-readme-stats.vercel.app/api?username=noname2048)](https://github.com/anuraghazra/github-readme-stats)
 
