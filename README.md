@@ -99,20 +99,22 @@
 
 주요기술
 
-![My Skills](https://skillicons.dev/icons?i=django,py,fastapi)
+![My Skills](https://skillicons.dev/icons?i=django,py,fastapi,react,nextjs,githubactions)
 
 배우고 있는 기술
 
-![My Skills](https://skillicons.dev/icons?i=postgres,docker,kubernetes,githubactions,react)
+![My Skills](https://skillicons.dev/icons?i=kubernetes,ts)
 
-배우고 싶은 기술
 
-![My Skills](https://skillicons.dev/icons?i=ts,nestjs,nextjs,neovim,rust)
 
 <!--
 **noname2048/noname2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+배우고 싶은 기술
+
+![My Skills](https://skillicons.dev/icons?i=nestjs,neovim,rust)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
