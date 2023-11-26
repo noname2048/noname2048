@@ -75,10 +75,10 @@
 #### 4. 그외 자잘한 프로젝트
 
 * jwt 공부, 2023.06
-  - [벡엔드] FastAPI 를 통한 jwt 공부 (https://github.com/noname2048/co-fastapi-jwt)
-  - github pre-hook 으로 ruff 등의 린팅툴 사용 및 적용
-  - [프론트] http only 쿠키와 세션, 로컬 스토리지 2023.08 (원티드 프리온보딩)
-* 쿠버네티스 https 씌우기 2023.04
+  * [벡엔드] FastAPI 를 통한 jwt 공부 (https://github.com/noname2048/co-fastapi-jwt)
+  * github pre-hook 으로 ruff 등의 린팅툴 사용 및 적용
+  * [프론트] http only 쿠키와 세션, 로컬 스토리지 2023.08 (원티드 프리온보딩)
+* 쿠버네티스로 https 웹사이트 서비스 2023.04
   * [데브옵스] 도커라이징한 서비스를 쿠버네티스를 이용해 서비스를 배포하는 경험
   * 직장에서 사용했던 cert-manager 와 기타 지식을 넘블 딥다이브 프로젝트를 통해 다시 복습
   * [블로그 후기] (https://velog.io/@noname2048/넘블-딥다이브-후기)
